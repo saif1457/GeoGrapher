@@ -1,8 +1,7 @@
 # GeoGrapher
-<img src="http://res.cloudinary.com/dcl78rpmg/image/upload/c_scale,q_33,w_2522/v1517602325/andrew-neel-133200_wez1wd.jpg" style="width:100%">
+<img src="http://res.cloudinary.com/dcl78rpmg/image/upload/c_scale,q_33,w_2522/v1517602325/andrew-neel-133200_wez1wd.jpg" style="width:100%"> [Photo by Andrew Neel on Unsplash](https://unsplash.com/photos/1-29wyvvLJA)
 
-A short script that maps geographic attributes (earthquake affected) to multiple countries/cities.
-<br>
+
 
 
 
